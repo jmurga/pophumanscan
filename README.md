@@ -1,5 +1,5 @@
 <h1>PopHumanScan</h1>
-<p>This repository contains the scripts to process data available at <a href='//pophuman.uab.cat>PopHuman.uab.cat</a>. The pipeline downloads raw data from pophuman and returns main merged tables by populations and statistics, empirical Pvalue and plots. All results returned were used and formated to be included in <a href='//pophumanscan.uab.cat'>PopHumanScan.uab.cat</a> at proper JSON or HTML format.</p>
+<p>This repository contains the scripts to process data available at <a href='//pophuman.uab.cat'>PopHuman.uab.cat</a>. The pipeline downloads raw data from pophuman and returns main merged tables by populations and statistics, empirical Pvalue and plots. All results returned were used and formated to be included in <a href='//pophumanscan.uab.cat'>PopHumanScan.uab.cat</a> at proper JSON or HTML format.</p>
 <br>
 <p>The pipeline is divided in two main parts:</p>
 <ul>
