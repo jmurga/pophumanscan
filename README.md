@@ -9,5 +9,5 @@
 <br>
 We really neede to thank PhD <a href='//scholar.google.es/citations?user=MNUHoYMAAAAJ&hl=en' target='_blank'>Carla Giner-Delgado</a> for her help and contributions on the code.
 <br>
-Any comments or feedback, please contact: <a href='jesus.murga@uab.cat' target="_top">jesus.murga@uab.cat</a>
+Any comments or feedback, please contact: <a href='jesus.murga@uab.cat'>jesus.murga@uab.cat</a>
 
